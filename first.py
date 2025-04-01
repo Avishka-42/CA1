@@ -52,6 +52,13 @@ print("you are eligible to vote")
 else:
 print("not eligible to vote")5 a person is eligible to vote or not.
 
+6 average of three numbers.
+
+a = 10
+b = 7
+c = 9
+d = ((a+b+c)/3)
+print(d)
 
 
 
