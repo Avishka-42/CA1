@@ -44,6 +44,14 @@ print(a)
 a = a||5
 print(a)
 
+5 a person is eligible to vote or not.
+
+age = int(input("enter the age"))
+if(age>=18);
+print("you are eligible to vote")
+else:
+print("not eligible to vote")5 a person is eligible to vote or not.
+
 
 
 
