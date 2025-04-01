@@ -60,6 +60,19 @@ c = 9
 d = ((a+b+c)/3)
 print(d)
 
+7 area of circle.
+
+r = float(input("enter the radius of the circle"))
+pi = 3.14
+result = (pi*r*r)
+print(result)
+
+8 swapping two numbers.
+
+a,b = 10,21
+print("value of a :",a,"value of b :",b)
+a,b = b,a
+print("value of a:",a,"value of b:",b)
 
 
 
