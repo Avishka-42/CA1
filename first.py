@@ -52,3 +52,13 @@ if (days = 6 or days = 7):
 print("it is a holiday")
 else:
 print("it is not a holiday")
+
+write wheather the no is even or not.
+
+while true:
+num = int(input("enter a no(0 to exit):"))
+if num == 0:
+print("exiting the program")
+break
+if num%2 ==0:
+
