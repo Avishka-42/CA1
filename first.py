@@ -61,4 +61,7 @@ if num == 0:
 print("exiting the program")
 break
 if num%2 ==0:
+print("even number")
+else:
+print("odd number")
 
