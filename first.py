@@ -49,3 +49,6 @@ check if today is a holiday.
 print("monday:1 tuesday:2 saturday:6 sunday:7")
 days = input()
 if (days = 6 or days = 7):
+print("it is a holiday")
+else:
+print("it is not a holiday")
